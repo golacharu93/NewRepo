@@ -18,7 +18,8 @@ namespace Height
             else
 
             { Console.WriteLine("The person is tall"); }
-
+            {Console.Readline();
+            }
 
         }
     }
